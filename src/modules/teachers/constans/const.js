@@ -1,5 +1,5 @@
 export const ROUTES = {
-    Teacher: '/task4-adv/teacher',
+    Teacher: '/task5-adv/teacher',
 
 }
 

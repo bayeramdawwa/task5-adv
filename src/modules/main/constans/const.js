@@ -1,9 +1,9 @@
 export const ROUTES = {
     Main: '',
-    Homepage:'/task4-adv',
-    About:'/task4-adv/about',
-    News:'/task4-adv/news',
-    Courses:'/task4-adv/courses'
+    Homepage:'/task5-adv',
+    About:'/task5-adv/about',
+    News:'/task5-adv/news',
+    Courses:'/task5-adv/courses'
 }
 
 

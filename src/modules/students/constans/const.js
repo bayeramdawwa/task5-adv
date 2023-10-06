@@ -1,5 +1,5 @@
 export const ROUTES = {
-    Student: '/task4-adv/student',
+    Student: '/task5-adv/student',
 
 }
 
